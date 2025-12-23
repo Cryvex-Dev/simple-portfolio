@@ -24,3 +24,6 @@ python -m http.server 8000
 
 - Static site — no build step required.
 - Edit files under the `assets/` folder to update styles, scripts, or images.
+
+### Important
+To find the website's source code you have to check "Releases"
